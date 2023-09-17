@@ -92,7 +92,6 @@ lcov.info
 pids
 logs
 results
-node_modules
 .node_history
 
 ############################
@@ -112,3 +111,4 @@ exports
 dist
 build
 .strapi-updater.json
+node_modules
